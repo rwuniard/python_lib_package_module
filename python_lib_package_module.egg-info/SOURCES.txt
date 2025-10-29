@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+mathlib/arithmetic/__init__.py
+mathlib/arithmetic/add.py
+mathlib/etc/__init__.py
+mathlib/etc/crazymath.py
+mathlib/vector/__init__.py
+mathlib/vector/multi.py
+python_lib_package_module.egg-info/PKG-INFO
+python_lib_package_module.egg-info/SOURCES.txt
+python_lib_package_module.egg-info/dependency_links.txt
+python_lib_package_module.egg-info/top_level.txt

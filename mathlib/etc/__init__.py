@@ -1,0 +1,1 @@
+from .crazymath import crazymath
